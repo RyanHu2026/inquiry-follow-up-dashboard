@@ -6,6 +6,28 @@
 
 这是一个可操作的客户管理原型，用于统一管理客户、询盘、报价和跟进进度。
 
+## 项目预览
+
+### 数据概览
+
+![数据概览](assets/screenshots/dashboard-overview.jpg)
+
+### 工作台
+
+![工作台](assets/screenshots/workspace-dashboard.jpg)
+
+### 询盘管理
+
+![询盘管理](assets/screenshots/inquiry-management.jpg)
+
+### 高意向客户
+
+![高意向客户](assets/screenshots/high-intent-customers.jpg)
+
+### 跟进日历
+
+![跟进日历](assets/screenshots/follow-up-calendar.jpg)
+
 ## 当前功能
 
 - 左侧导航以“数据概览”为首项，并可切换工作台、询盘管理、高意向客户、跟进日历和设置
